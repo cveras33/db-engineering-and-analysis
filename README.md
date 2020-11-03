@@ -65,6 +65,7 @@ In descending order, the frequency count of employee last names, i.e., how many 
 The above histogram visualizes the most common salary ranges for employees. This histogram does NOT include manager salaries. According to the histogram, $40,000-$50,000/year is the most common salary range, while $110,000-$120,000/year is the least common salary range. This histogram also shows that as the salary range increases, less and less employees fall within that salary range. I've also placed each employee in a salary bin, in order to see exactly how many employees are in which salary range. The bins with the number of employees within that salary range can be seen above, following the histogram. 
 
 ![Bar Chart](https://github.com/cveras33/sql-challenge/blob/main/Output/avg_salary_by_title.png)
+
 ![Salary by Title](https://github.com/cveras33/sql-challenge/blob/main/Output/average_salary.png)
 
 The above bar chart visualizes the average salary by position, followed by a table with the numeric averages printed out. 
