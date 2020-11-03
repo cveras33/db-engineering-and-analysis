@@ -6,6 +6,7 @@
 * [Data Modeling](#data-modeling)
 * [Data Engineering](#data-engineering)
 * [Data Analysis](#data-analysis)
+* [Bonus](#bonus)
 
 ## Data Modeling ##
 The below ERD was created using [QuickDBD](https://app.quickdatabasediagrams.com/#/). 
@@ -55,6 +56,9 @@ All employees in the Sales and Development departments, including their employee
 
 In descending order, the frequency count of employee last names, i.e., how many employees share each last name:
 ![Q8](https://github.com/cveras33/sql-challenge/blob/main/Output/q8.png)
+
+## Bonus ##
+
 
 ### Status ### 
 Project is *in progress*. 
