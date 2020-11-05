@@ -80,4 +80,4 @@ The above histogram visualizes the most common salary ranges for employees. This
 The above bar chart visualizes the average salary by position, followed by a table with the numeric averages printed out. 
 
 ### Status ### 
-Project is *in progress*. 
+Project is *complete*. 
