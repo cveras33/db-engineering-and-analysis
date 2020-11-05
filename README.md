@@ -14,6 +14,9 @@ The below ERD was created using [QuickDBD](https://app.quickdatabasediagrams.com
 ![ERD Image](https://github.com/cveras33/sql-challenge/blob/main/EmployeeSQL/ERD/ERD.png)
 
 ## Data Engineering ##
+
+A schemata was created for each of the six CSV files (which can be found in the `data` folder), with specified data types, primary keys, foreign keys, and any other necessary constraints. A screenshot of the first 10 rows of each table is provided below in order to give an idea of the data being looked at. The schemata was created by exporting the `physical_erd.txt` file from [QuickDBD](https://app.quickdatabasediagrams.com/#/), and uploading the file to PostgreSQL. 
+
 #### Employees Table ####
 ![Emoloyees Table](https://github.com/cveras33/sql-challenge/blob/main/Output/employees_table.png)
 
@@ -33,6 +36,9 @@ The below ERD was created using [QuickDBD](https://app.quickdatabasediagrams.com
 ![Dept Emp Table](https://github.com/cveras33/sql-challenge/blob/main/Output/dept_emp_table.png)
 
 ## Data Analysis ##
+
+Once the database was created, by the above data engineering, the eight following queries were run in order to gather additional information about employees. 
+
 Employee number, last name, first name, sex, and salary of each employee:
 ![Q1](https://github.com/cveras33/sql-challenge/blob/main/Output/q1.png)
 
@@ -58,6 +64,9 @@ In descending order, the frequency count of employee last names, i.e., how many 
 ![Q8](https://github.com/cveras33/sql-challenge/blob/main/Output/q8.png)
 
 ## Bonus ##
+
+The SQL database is then imported into Pandas using SQLAlchemy, and the following data visualizations are created. 
+
 ![Histogram](https://github.com/cveras33/sql-challenge/blob/main/Output/salary_histogram.png)
 
 ![Bins](https://github.com/cveras33/sql-challenge/blob/main/Output/salary_bins.png)
