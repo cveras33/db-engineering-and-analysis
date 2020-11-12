@@ -81,3 +81,8 @@ The above bar chart visualizes the average salary by position, followed by a tab
 
 ### Status ### 
 Project is *complete*. 
+
+#### Contact ####
+Chloe Veras  
+chloemveras@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/chloeveras/)
